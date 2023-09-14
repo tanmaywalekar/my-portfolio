@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Click To Kart",
+    "desc": "An shopping Website with seperate admin and user login and authentication, additional funcnality of inventory management for admin and add to cart option for user, in=mpliment all Crud operations , made using MERN Stack,JWs token",
+    "image": "cart",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/tanmaywalekar/ClickToKart"
+    }
+  },
+  {
+    "name": "Portfolio website",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Chat In My Room",
+    "desc": "An web chat application where users can creat rooms and chat with each other",
+    "image": "sppuprepandroid",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  }
+ 
+  
+]
